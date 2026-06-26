@@ -1,0 +1,21 @@
+{
+  "name": "Russisches Fernsehen",
+  "version": "1.0.0",
+  "headline": "Russisches Fernsehen",
+  "type": "list",
+  "template": {
+    "type": "button",
+    "layout": "0,0,6,1",
+    "color": "msx-glass",
+    "icon": "play-arrow"
+  },
+  "items": [
+    {
+      "id": "open-russian-tv",
+      "label": "Russisches Fernsehen öffnen",
+      "focus": true,
+      "execute": true,
+      "action": "link:https://drm-play.com"
+    }
+  ]
+}
