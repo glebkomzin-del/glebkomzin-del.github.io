@@ -1,0 +1,21 @@
+{
+  "name": "Mediathek 2",
+  "version": "1.0.0",
+  "headline": "Mediathek 2",
+  "type": "list",
+  "template": {
+    "type": "button",
+    "layout": "0,0,6,1",
+    "color": "msx-glass",
+    "icon": "movie"
+  },
+  "items": [
+    {
+      "id": "open-mediathek-2",
+      "label": "Mediathek 2 öffnen",
+      "focus": true,
+      "execute": true,
+      "action": "link:https://atodo.fun"
+    }
+  ]
+}
