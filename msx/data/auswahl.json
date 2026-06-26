@@ -1,6 +1,6 @@
 {
   "name": "Meine Auswahl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "pages",
   "headline": "Meine Auswahl",
   "pages": [
@@ -32,7 +32,7 @@
           "icon": "movie-filter",
           "iconSize": "large",
           "label": "Mediathek 2",
-          "action": "link:window:https://Atodo.fun"
+          "action": "menu:request:interaction:menu@https://atodo.fun/fun.html"
         }
       ]
     }
