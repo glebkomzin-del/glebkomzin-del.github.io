@@ -1,25 +1,25 @@
 {
   "name": "Gleb MSX Menu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "headline": "Meine Auswahl",
   "menu": [
     {
       "id": "russian-tv",
       "icon": "live-tv",
       "label": "Russisches Fernsehen",
-      "data": "https://glebkomzin-del.github.io/MSX/data/russian-tv.json"
+      "data": "https://glebkomzin-del.github.io/data/russian-tv.json"
     },
     {
       "id": "mediathek",
       "icon": "movie",
       "label": "Mediathek",
-      "data": "https://glebkomzin-del.github.io/MSX/data/mediathek.json"
+      "data": "https://glebkomzin-del.github.io/data/mediathek.json"
     },
     {
       "id": "mediathek-2",
       "icon": "movie-filter",
       "label": "Mediathek 2",
-      "data": "https://glebkomzin-del.github.io/MSX/data/mediathek-2.json"
+      "data": "https://glebkomzin-del.github.io/data/mediathek-2.json"
     },
     {
       "type": "separator",
